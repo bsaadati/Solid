@@ -6,7 +6,7 @@ npm-debug.log*
 yarn-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
-report.[0-9]*.[0-9]*.[0-9]
+report.[0-9]*.[0-9]
 
 # Runtime data
 pids
