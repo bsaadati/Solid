@@ -8,6 +8,14 @@ yarn-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 ]
 
+contract is Token {
+    mapping (address => uint);
+    constructor
+    }
+    function  _a) public view returns (uint) {
+        return balance[_b];
+
+      
 # Runtime data
 pids
 *.pid.local
