@@ -4,6 +4,7 @@ logs
 *.log
 npm-debug.log*
 yarn-debug.log*
+Gxiiiiiixitx
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 ]
